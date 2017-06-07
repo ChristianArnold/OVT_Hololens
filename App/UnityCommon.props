@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>OVT_Hololens</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Christian\Documents\Unity\OVT_Hololens\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Christian\Documents\Unity\OVT_Hololens\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
